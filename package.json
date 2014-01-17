@@ -1,0 +1,27 @@
+{
+  "name": "goodreads-renormalizer",
+  "version": "0.0.0",
+  "description": "goodreads-renormalizer ======================",
+  "main": "index.js",
+  "dependencies": {
+    "co": "~3.0.2",
+    "lodash": "~2.4.1",
+    "request": "~2.33.0",
+    "co-request": "~0.1.1",
+    "xml2js": "~0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvanalst/goodreads-renormalizer.git"
+  },
+  "author": "Jeffrey D. Van Alstine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvanalst/goodreads-renormalizer/issues"
+  },
+  "homepage": "https://github.com/jvanalst/goodreads-renormalizer"
+}
